@@ -1,11 +1,5 @@
 # Qiskit Advocate Mentorship Program
 
-**NEW! Check mid-term checkpoint presentations here**
-
-- [Eastern hemisphere session](https://www.youtube.com/watch?v=_wZyLV9pTxI&list=PLOFEBzvs-VvqQMAVaXoFlSqjqgbX5k-fL&index=25)
-- [Western hemisphere session](https://www.youtube.com/watch?v=cxLPd_RUi6A&list=PLOFEBzvs-VvqQMAVaXoFlSqjqgbX5k-fL&index=26)
-- [Presentation slides](/mid-term_checkpoint)
-
 ## Introduction
 
 Hey, fellow Qiskit advocates! Have you already set your 2021 quantum resolutions? We are excited to announce the Qiskit advocate mentorship program to help you fulfill them! This program provides opportunities for skills development and professional growth in the quantum industry.
@@ -18,17 +12,17 @@ As the quantum industry rapidly grows, nurturing enthusiastic talents from diver
 
 *Note: dates may be subject to change*
 
-1. **Application open (Feb 1 - 15, 2021)**
+1. **Application open (Aug 19 - Sep 2, 2021)**
     Applicants submit application form. Tell us why you want to join the mentorship program and show us your level of expertise in quantum computing and Qiskit by providing evidence (for example, pull requests to Qiskit GitHub).
-1. **Selecting mentees (Feb 16 - 28, 2021)**
+1. **Selecting mentees (Sep 2 - Sep 9, 2021)**
     Mentors have the freedom to decide how many mentees and how many projects to take and assign an individual or a group on a project.
-1. **Defining projects deliverables (Mar 3 - 14, 2021)**
+1. **Defining projects deliverables (Sep 9 - 23, 2021)**
     Mentors and mentees work together to refine the project ideas and define the deliverables based on mentees' commitment and skills level.
-1. **Mentoring period (Mar 3 - Jun 3, 2021)**
+1. **Mentoring period (Sep 9 - Dec 9, 2021)**
     Mentees work on the project with guidance from mentors. Mentors should meet with mentees regularly (1 hour call every week) to check the progress and provide feedback.
-1. **Mid-term review (Apr 1, 2021)**
+1. **Mid-term review (Oct 7, 2021)**
     Mentees will share project ideas and current progress to other mentees in a group call to get feedback.
-1. **Final showcase (Jun 3, 2021)**
+1. **Final showcase (Dec 9, 2021)**
     Mentess will present the final outcome of projects. Projects will be evaluated and highlighted in a series of Qiskit Medium blog post.
 
 ## Commitment from mentees
