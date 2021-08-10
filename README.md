@@ -1,9 +1,5 @@
 # Qiskit Advocate Mentorship Program
 
-## Introduction
-
-Hey, fellow Qiskit advocates! Have you already set your 2021 quantum resolutions? We are excited to announce the Qiskit advocate mentorship program to help you fulfill them! This program provides opportunities for skills development and professional growth in the quantum industry.
-
 ## Purpose
 
 As the quantum industry rapidly grows, nurturing enthusiastic talents from diverse backgrounds is central to Qiskit’s success. As a Qiskit advocate, you have taken the first steps in your quantum journey. Now, through our new mentorship program, you will be able to boost your progress with opportunities to develop your skills in areas ranging from programming, quantum information science, and technical writing. You will also gain first-hand experience through projects completed with the guidance of IBM Quantum and Qiskit experts.
