@@ -29,14 +29,14 @@ During application period (a few hours)
 - Demonstrate level of expertise in quantum computing and coding skills.
     - Examples: pull requests to Qiskit GitHub repos, blogpost style Qiskit tutorials, research papers.
     - If you want to increase your chance of being selected, you can fix an issue on [Qiskit GitHub repos](https://github.com/Qiskit) during the application period. A good place to start are issues with tag ["good first issues"](https://github.com/Qiskit/qiskit-terra/issues?page=1&q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22+sort%3Aupdated-asc+-label%3A%22status%3A+pending+PR%22).
-- Submit the [application form](https://airtable.com/shrUqAnET8uD2ujSh).
+- Submit the [application form]().
 
 During mentoring period (> 5 hours per week)
 - Discuss with your mentor to refine project details and define deliverables. (during the first 2 weeks)
 - Work on a project with guidance from your mentor. You should dedicate at least 5 hours per week for a meaningful mentorship experience.
 - Meet with your mentor regularly to report progress and get feedbacks. (1 hour call every week).
-- Present project ideas and progress in mid-term review (Mid Apr, 2021)
-- Present final outcome in the final showcase (Mid Jun, 2021)
+- Present project ideas and progress in mid-term review (Oct 7, 2021)
+- Present final outcome in the final showcase (Dec 9, 2021)
 
 ## Mentorship projects
 
@@ -48,13 +48,13 @@ Coming soon
 A: The mentorship program is open to all Qiskit advocates around the world, including IBMers and non-IBMers.
 
 ### Q: Can mentees propose projects?
-A: Yes! Mentees can propose project ideas by submitting them as a github issue [here](https://github.com/qiskit-community/qiskit-advocate-mentorship-program/issues) during the application period (Feb 1st - 15th). If a mentor is interested your project, you will be matched to work on the project.
+A: Yes! Mentees can propose project ideas by submitting them as a github issue [here](https://github.com/qiskit-community/qiskit-advocate-mentorship-program/issues) during the application period (Aug 19 - Sep 2). If a mentor is interested in your project, you will be matched to work on the project.
 
 ### Q: I don't have much programming experience, can I still apply?
 A: Yes! The mentorship program is meant for developing your skills. Some projects require only minimal programming experience. You will be able to learn and improve your programming skills with guidance of your mentor.
 
 ### Q: How long is the mentorship program?
-A: The official mentoring period is 3 months, from Mar 1st to Jun 1st. The final showcase will happen shortly after that, around mid June.
+A: The official mentoring period is 3 months, from Sep 9th to Dec 9th. The final showcase will happen shortly after that, around mid June.
 
 ### Q: How does a mentor and a mentee gets matched?
 A: You will be matched based on the project preference and interest areas indicated in your application form as well as the evidence you have provided to demonstrate your experience and commitment.
