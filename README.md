@@ -54,7 +54,7 @@ A: Yes! Mentees can propose project ideas by submitting them as a github issue [
 A: Yes! The mentorship program is meant for developing your skills. Some projects require only minimal programming experience. You will be able to learn and improve your programming skills with guidance of your mentor.
 
 ### Q: How long is the mentorship program?
-A: The official mentoring period is 3 months, from Sep 9th to Dec 9th. The final showcase will happen shortly after that, around mid June.
+A: The official mentoring period is 3 months, from Sep 9th to Dec 9th. The final showcase will take place on Dec 9th.
 
 ### Q: How does a mentor and a mentee gets matched?
 A: You will be matched based on the project preference and interest areas indicated in your application form as well as the evidence you have provided to demonstrate your experience and commitment.
