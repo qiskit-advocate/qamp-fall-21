@@ -8,9 +8,9 @@ As the quantum industry rapidly grows, nurturing enthusiastic talents from diver
 
 *Note: dates may be subject to change*
 
-1. **Application open (Aug 19 - Sep 2, 2021)**
+1. **Application open (Aug 19 - 30, 2021)**
     Applicants submit application form. Tell us why you want to join the mentorship program and show us your level of expertise in quantum computing and Qiskit by providing evidence (for example, pull requests to Qiskit GitHub).
-1. **Selecting mentees (Sep 2 - Sep 9, 2021)**
+1. **Selecting mentees (Aug 31 - Sep 9, 2021)**
     Mentors have the freedom to decide how many mentees and how many projects to take and assign an individual or a group on a project.
 1. **Defining projects deliverables (Sep 9 - 23, 2021)**
     Mentors and mentees work together to refine the project ideas and define the deliverables based on mentees' commitment and skills level.
@@ -48,7 +48,7 @@ Coming soon
 A: The mentorship program is open to all Qiskit advocates around the world, including IBMers and non-IBMers.
 
 ### Q: Can mentees propose projects?
-A: Yes! Mentees can propose project ideas by submitting them as a github issue [here](https://github.com/qiskit-community/qiskit-advocate-mentorship-program/issues) during the application period (Aug 19 - Sep 2). If a mentor is interested in your project, you will be matched to work on the project.
+A: Yes! Mentees can propose project ideas by submitting them as a github issue [here](https://github.com/qiskit-community/qiskit-advocate-mentorship-program/issues) during the application period (Aug 19 - 30). If a mentor is interested in your project, you will be matched to work on the project.
 
 ### Q: I don't have much programming experience, can I still apply?
 A: Yes! The mentorship program is meant for developing your skills. Some projects require only minimal programming experience. You will be able to learn and improve your programming skills with guidance of your mentor.
